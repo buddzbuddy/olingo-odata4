@@ -37,6 +37,8 @@
 		<javax.version>2.5</javax.version>
 		<odata.version>4.8.0-SNAPSHOT</odata.version>
 		<slf4j.version>1.7.7</slf4j.version>
+		<maven.compiler.source>11</maven.compiler.source>
+    <maven.compiler.target>11</maven.compiler.target>
 	</properties>
 
 	<dependencies>
